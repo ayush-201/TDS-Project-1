@@ -1,0 +1,10 @@
+flask
+flask_cors
+openai
+faiss-cpu
+pillow
+pytesseract
+python-dotenv
+numpy
+bs4
+gunicorn
